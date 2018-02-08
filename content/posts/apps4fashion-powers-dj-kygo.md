@@ -1,5 +1,5 @@
 +++
-Image = ""
+Image = "/uploads/2018/02/08/16a47611ec2f79fc12286b4b27d9da47.jpg"
 Intro = "Together with our Norwegian partner DEKON IT we warmly welcome DJ Kygo."
 date = "2018-02-08T16:18:58+00:00"
 draft = true

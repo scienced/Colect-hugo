@@ -1,0 +1,36 @@
+
+{{ partial "header.html" . }}
+
+<section class="home-hero" style="background: url('{{ .Params.Image }}') center center no-repeat fixed; -webkit-background-size: cover; background-size: cover;">
+      <div class="hero-content block">
+        <div class="grid-wrap">
+          <h1 class="hero-title c-light">{{ .Title }}</h1>
+        </div><!-- /.grid-wrap -->
+      </div><!-- /.hero-content -->
+    </section>
+
+    <section class="block bg-light  ">
+      <div class="grid-wrap">
+        <a href="../../posts" class="back-link">&lsaquo; back to news overview</a>
+        
+
+        <div class="content intro">
+          {{.Params.Intro}}
+        </div>
+
+      </div><!-- /.grid-wrap -->
+    </section>
+    
+    <!-- Content unit -->
+    <section class="block bg-white" id="content">
+      <div class="grid-wrap align-left">
+        
+
+        <div class="content">
+            {{ .Content }}
+        </div>
+      </div><!-- /.grid-wrap -->
+    </section>
+
+
+{{ partial "footer.html" . }}

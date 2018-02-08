@@ -1,0 +1,80 @@
+{{ partial "header.html" . }}
+<main>
+<section class="home-hero" style="background: url('files/visuals/_bg/news2.jpg') center center no-repeat fixed; -webkit-background-size: cover; background-size: cover;">
+                <div class="hero-content block">
+                    <div class="grid-wrap">
+                        <h1 class="hero-title c-light">What's appening?</h1>
+                    </div><!-- /.grid-wrap -->
+                </div><!-- /.hero-content -->
+            </section>
+            
+
+            <!-- Contact unit -->
+            <section class="block bg-white news-list " id="our-apps">
+                <div class="grid-wrap">
+
+
+
+
+
+    <div class="grid-row">
+        
+        {{ range first 3 .Data.Pages }}
+          <div class="third">
+                                <a href="{{ .Permalink }}"><img src="{{ .Params.Image }}" class="responsive news-image"></a>
+
+                                <div class="box-content">
+                                    <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
+                                    <p>{{ .Params.Intro }} <a class="" href="{{ .Permalink }}">more &rsaquo;</a></p>
+                                    
+                                </div>
+                            </div>  
+
+
+        {{ end }}
+         <div class="row-spacer"></div>
+
+        {{ range first 3 (after 3 .Data.Pages) }}
+          <div class="third">
+                                <a href="{{ .Permalink }}"><img src="{{ .Params.Image }}" class="responsive news-image"></a>
+
+                                <div class="box-content">
+                                    <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
+                                    <p>{{ .Params.Intro }} <a class="" href="{{ .Permalink }}">more &rsaquo;</a></p>
+                                    
+                                </div>
+                            </div>  
+
+
+        {{ end }}
+
+        <div class="row-spacer"></div>
+
+        {{ range first 3 (after 6 .Data.Pages) }}
+          <div class="third">
+                                <a href="{{ .Permalink }}"><img src="{{ .Params.Image }}" class="responsive news-image"></a>
+
+                                <div class="box-content">
+                                    <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
+                                    <p>{{ .Params.Intro }} <a class="" href="{{ .Permalink }}">more &rsaquo;</a></p>
+                                    
+                                </div>
+                            </div>  
+
+
+        {{ end }}
+
+
+   
+                            
+                            
+    <div class="row-spacer"></div>
+ 
+
+        </div><!-- /.grid-row -->
+
+    </div>
+</section>
+
+</main>
+{{ partial "footer.html" . }}

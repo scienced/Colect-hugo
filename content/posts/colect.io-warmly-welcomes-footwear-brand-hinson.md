@@ -2,7 +2,7 @@
 Image = "/uploads/2018/02/08/slide-2-image.jpg"
 Intro = "After a thorough search for the best mobile order solution Omniwear International, manufacturer of footwear brand Hinson, decided to implement the mobile order application of Colect.io"
 date = "2018-02-08T14:41:27+00:00"
-title = "Colect.io warmly welcomes footwear brand Hinson"
+title = "Colect warmly welcomes footwear brand Hinson"
 
 +++
 They implemented the mobile order application of Colect.io to equip their sales team and also launch a B2B web portal to provide their b2b customers 24/7 with direct and easy access to available stock inventory, order- and invoice history as well as order status of running sales orders.  

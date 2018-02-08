@@ -19,7 +19,7 @@
 
     <div class="grid-row">
         
-        {{ range first 3 .Data.Pages }}
+        {{ range first 9 .Data.Pages }}
           <div class="third">
                                 <a href="{{ .Permalink }}"><img src="{{ .Params.Image }}" class="responsive news-image"></a>
 
@@ -34,19 +34,6 @@
         {{ end }}
          <div class="row-spacer"></div>
 
-        {{ range first 3 (after 3 .Data.Pages) }}
-          <div class="third">
-                                <a href="{{ .Permalink }}"><img src="{{ .Params.Image }}" class="responsive news-image"></a>
-
-                                <div class="box-content">
-                                    <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
-                                    <p>{{ .Params.Intro }} <a class="" href="{{ .Permalink }}">more &rsaquo;</a></p>
-                                    
-                                </div>
-                            </div>  
-
-
-        {{ end }}
 
 
 

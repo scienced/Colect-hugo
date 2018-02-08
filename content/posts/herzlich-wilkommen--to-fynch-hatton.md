@@ -1,10 +1,10 @@
-+++
-Image = "/uploads/2018/02/08/IMG_0037.PNG"
-Intro = "We welcome this German \"Familien Unternehmen\" to the Apps4Fashion family and look forward to service them with our sales tools on their way to an 100 Million turnover!"
-date = "2018-02-08T15:02:26+00:00"
-title = "Herzlich Wilkommen​ to Fynch-Hatton"
+---
+Image: "/uploads/2018/02/08/IMG_0037.PNG"
+Intro: "We welcome this German \"Familien Unternehmen\" to the Apps4Fashion family and look forward to service them with our sales tools on their way to an 100 Million turnover!"
+date: "2018-02-08T15:22:26+00:00"
+title: "Herzlich Wilkommen​ to Fynch-Hatton"
+---
 
-+++
 After successfully implementing our mobile order tools at fashion, sports wear, accessory and footwear brands, manufacturers, suppliers, distributors and agencies across Europe we warmly welcome this German "Familien Unternehmen" and look forward to service them with our sales tools on their way to an 100 Million turnover!  
   
 Fynch-Hatton stands for the freedom to live your own style. With clothing and accessories that have their own character. A diverse collection featuring attractive colours that are appropriate for any occasion. Made for every man, but not for everyone. Fynch-Hatton offers high quality, superior workmanship and exciting details.  

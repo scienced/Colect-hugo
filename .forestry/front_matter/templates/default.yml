@@ -18,6 +18,12 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: textarea
+  name: Intro
+  label: Ankeiler
+  config:
+    required: true
+    wysiwyg: false
 - type: file
   name: background_image
   label: Background image

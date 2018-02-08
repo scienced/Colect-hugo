@@ -1,7 +1,7 @@
 ---
 title: "Dobotex teams up with Colect.io to upgrade their mobile order entry"
 date: 2018-02-08T11:45:40+01:00
-draft: true
+draft: false
 Intro: "Dobotex - licensee of PUMA, HEAD, Levis, Tommy Hilfiger socks and underwear and Colect.io (formally known as Apps4Fashion) - supplier of innovative and efficient mobile order entry solutions - have teamed up to bring the mobile order entry process to a next level."
 Image: '../../files/visuals/_bg/puma_groot.jpg'
 ---

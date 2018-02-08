@@ -1,7 +1,7 @@
 ---
 title: "A warm welcome to WHYRED"
 date: 2018-02-08T10:16:40+01:00
-draft: true
+draft:
 Intro: "Together with our Swedish partner NaviPro we warmly welcome WHYRED to the Apps4Fashion family. With WHYRED we are extreme happy to service another great Swedish fashion brand with our digital catalogue and mobile order entry tool."
 Image: '../../files/visuals/_bg/Whyred_groot_def.jpg'
 ---

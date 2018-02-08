@@ -2,7 +2,6 @@
 Image = "/uploads/2018/02/08/slide-2-image.jpg"
 Intro = "After a thorough search for the best mobile order solution Omniwear International, manufacturer of footwear brand Hinson, decided to implement the mobile order application of Colect.io"
 date = "2018-02-08T14:41:27+00:00"
-draft = true
 title = "Colect.io warmly welcomes footwear brand Hinson"
 
 +++

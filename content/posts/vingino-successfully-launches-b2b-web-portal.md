@@ -2,7 +2,6 @@
 Image = "/uploads/2018/02/08/kw-vingino-ss15-16.jpg"
 Intro = "Strongly growing denim kidswear brand Vingino recently launched their own web portal to service their independent B2B customers all over Europe with 24/7 direct access to stock collections, special stock offers, order history, POS and marketing material"
 date = "2018-02-08T15:18:25+00:00"
-draft = true
 title = "Vingino successfully launches B2B web portal"
 
 +++

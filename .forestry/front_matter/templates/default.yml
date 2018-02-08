@@ -16,3 +16,6 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: file
+  name: background_image
+  label: Background image

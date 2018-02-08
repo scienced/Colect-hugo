@@ -1,11 +1,13 @@
 ---
-title: "Klerx Shoes successfully launches B2B web shop"
-date: 2018-02-08T12:45:40+01:00
-draft: false
-Intro: "Dutch footwear wholesaler, P.J. Klerx & Zonen located in Waalwijk, known from Red-Rag, Develop and Paul Green, has successfully launched their B2B web shop."
-Image: '../../files/visuals/_bg/resizedimage600270-RR-store-pagheader.jpg'
----
+title: Klerx Shoes successfully launches B2B web shop
+date: 2018-02-08 12:45:40 +0100
+Intro: Dutch footwear wholesaler, P.J. Klerx & Zonen located in Waalwijk, known from
+  Red-Rag, Develop and Paul Green, has successfully launched their B2B web shop.
+Image: "../../files/visuals/_bg/resizedimage600270-RR-store-pagheader.jpg"
+type: default
+background_image: "/uploads/2018/02/08/1535741_757545220940584_39035005_n.jpg"
 
+---
 With this web shop they are offering their B2B customers a modern branded service platform with a 24/7 direct access to available stock from the several brand collections including the possibility to send in re- and stock orders at any time and any place. During the day from their stores or in the evening at the kitchen table.
 
 There is a clear trend among both fashion, sportswear and footwear suppliers to offer additional services to retailers. Robert Bolland (Apps4Fashion): "A growing number of our customers decides to launch implement our B2B web portal to service their retail partners, next to the iPad order app already used by their sales team. Because our web shop is fully integrated with both the wholesale app and instore retail app, both the setup and the maintenance is extremely straight forward. The B2B web portal is setup as being as service platform offering retailers direct access to available stocks, their personal order history, order status, invoice historie but is also inspired by relevant sales and brand content like look books, merchandise instructions, commercials and product videos. New features are constantly developed and added to the B2B web shop."

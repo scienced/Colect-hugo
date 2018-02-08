@@ -26,5 +26,5 @@ fields:
     required: true
     wysiwyg: false
 - type: file
-  name: background_image
+  name: Image
   label: Background image
